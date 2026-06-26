@@ -1,7 +1,7 @@
 # RaspDeck3
 
-This repository contains everything related to the RaspDeck.
-RaspDeck3 is a small macro pad using the Waveshare RP2040-Zero.
+This repository contains everything related to the RaspDeck.  
+RaspDeck is a small macro pad using the Waveshare RP2040-Zero.
 
 ## Features
 
